@@ -1,3 +1,5 @@
+<meta charset="utf-8" />
+
 # Changelog
 
 本網站的更新日誌，提供最新的更新內容與歷史索引。
